@@ -1,1 +1,1 @@
-# ocr_-license_plate
+# ocr_license_plate
